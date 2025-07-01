@@ -24,7 +24,7 @@
 
 ⚙️ Installation
 
-    -pip install wfdb pandas matplotlib numpy
+    pip install wfdb pandas matplotlib numpy
 
 
 📂 Project Structure
@@ -45,12 +45,12 @@
 
    1. Convert MITDB files to CSV:
 
-           -python convert_mitdb_to_csv.py
+           python convert_mitdb_to_csv.py
 
 
    2. Plot the CSV as ECG waveform
 
-          -python plot_csv_ecg.py
+          python plot_csv_ecg.py
 
 
 🧠 Example:     
