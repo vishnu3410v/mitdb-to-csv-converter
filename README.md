@@ -1,7 +1,7 @@
 🫀MIT-BIH ECG Dataset to CSV Converter : 
 
-       -This project converts raw MIT-BIH Arrhythmia Database .dat files into CSV format and visualizes ECG signals using Python. 
-       Ideal for ECG signal preprocessing and machine learning applications in healthcare.
+    This project converts raw MIT-BIH Arrhythmia Database .dat files into CSV format and visualizes ECG signals using Python. 
+    Ideal for ECG signal preprocessing and machine learning applications in healthcare.
 
 
 📁 Dataset
